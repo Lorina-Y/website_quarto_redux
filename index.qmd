@@ -1,5 +1,0 @@
----
-title: "Lorina Quarto Website"
----
-
-Hi, My name is Lorina Yang, Nice to meet you!
